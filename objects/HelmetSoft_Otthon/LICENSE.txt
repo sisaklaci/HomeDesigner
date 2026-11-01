@@ -1,0 +1,11 @@
+HelmetSoft original household model collection
+
+All models, materials and generated textures in this directory are original,
+unbranded procedural works by helmetsoft.com.
+
+Dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+You may use, modify and redistribute them, including commercially.
+Provided without warranty. Dimensions are in metres, Y axis up.
+These are visualization assets, not manufacturing or safety specifications.

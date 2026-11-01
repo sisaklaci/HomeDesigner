@@ -1,0 +1,22 @@
+/.tools/
+/.lwjgl/
+/dist/
+/target/
+
+# Too large for GitHub (100MB hard limit)
+/objects/couch/couch.obj
+/objects/couch/couch model.max
+/objects/couch.obj
+
+# Third-party assets with unknown/unclear redistribution rights
+# (only the HelmetSoft_* folders are original, CC0-licensed assets)
+/objects/couch/
+/objects/couch.mtl
+/objects/Koltuk/
+/objects/Office chair/
+/objects/Sofa.blend
+/objects/bed.blend
+/objects/The room/
+/objects/InformativePanel01.glb
+/objects/TerrainSand01.glb
+/objects/XmasTree.glb

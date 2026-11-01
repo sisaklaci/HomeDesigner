@@ -1,0 +1,30 @@
+newmtl material_0
+Kd 0.91 0.92 0.91
+Ks 0.8 0.8 0.8
+Ns 750.0
+d 1.0
+Pm 0
+Pr 0.25
+illum 2
+Ni 1.5
+
+newmtl material_1
+Kd 0.88 0.91 0.94
+Ks 0.8 0.8 0.8
+Ns 990.0
+d 1.0
+Pm 1
+Pr 0.01
+illum 3
+Ni 1.5
+
+newmtl material_2
+Kd 0.8 0.83 0.86
+Ks 0.8 0.8 0.8
+Ns 920.0
+d 1.0
+Pm 1
+Pr 0.08
+illum 3
+Ni 1.5
+

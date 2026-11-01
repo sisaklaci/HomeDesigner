@@ -1,0 +1,51 @@
+newmtl material_0
+Kd 0.65 0.68 0.71
+Ks 0.8 0.8 0.8
+Ns 820.0000000000001
+d 1.0
+Pm 1
+Pr 0.18
+illum 3
+Ni 1.5
+
+newmtl material_1
+Kd 1.0 1.0 1.0
+Ks 0.8 0.8 0.8
+Ns 600.0
+d 1.0
+Pm 0
+Pr 0.4
+illum 2
+Ni 1.5
+
+map_Kd ..\texture_0.png
+newmtl material_2
+Kd 0.34 0.4 0.31
+Ks 0.8 0.8 0.8
+Ns 79.99999999999996
+d 1.0
+Pm 0
+Pr 0.92
+illum 2
+Ni 1.5
+
+newmtl material_3
+Kd 0.34 0.4 0.31
+Ks 0.8 0.8 0.8
+Ns 79.99999999999996
+d 1.0
+Pm 0
+Pr 0.92
+illum 2
+Ni 1.5
+
+newmtl material_4
+Kd 0.62 0.53 0.42
+Ks 0.8 0.8 0.8
+Ns 79.99999999999996
+d 1.0
+Pm 0
+Pr 0.92
+illum 2
+Ni 1.5
+

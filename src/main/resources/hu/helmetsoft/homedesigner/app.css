@@ -1,0 +1,19 @@
+.view-title {
+    -fx-background-color: rgba(31, 41, 55, 0.62);
+    -fx-text-fill: white;
+    -fx-padding: 3 10 3 10;
+    -fx-background-radius: 10;
+    -fx-font-weight: bold;
+    -fx-font-size: 11px;
+}
+.status-bar {
+    -fx-background-color: -color-bg-subtle;
+    -fx-border-color: -color-border-default;
+    -fx-border-width: 1 0 0 0;
+}
+.tool-bar .toggle-button {
+    -fx-padding: 5 10 5 10;
+}
+.split-pane > .split-pane-divider {
+    -fx-padding: 0 2 0 2;
+}
